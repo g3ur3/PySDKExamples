@@ -1,0 +1,10 @@
+hw_location: "@local"
+orca1_zoo_url: "https://cs.degirum.com/degirum/public"
+orca_zoo_url: "https://cs.degirum.com/degirum/orca_models"
+exclude_preprocessing: True
+use_jpeg: True
+image_dir: "/home/gotom/data_dir/split_pic"
+num_of_orca: 2
+num_of_pics: 200
+batch_size: 16
+image_size: [224,224,200]
